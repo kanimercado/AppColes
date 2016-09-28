@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b5516b07748816b3f6112262fd828b9d42cbda0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_fdfdd4b5a4eeedac55ce9d394db2d4a3d669a607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_78af378ba498957953268d652d3c667ebf81d567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_205257303dc947c42a46a300a8df6a239f848579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="39079750180ce3abd31aac534ad8bbc4d71da00b">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58a9acd473a70e91e8e5b6430320de1ea9b7e9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_db0ccf5e4da4d1d74a416cd5f4e7ff4292a87742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e03472900214edcd3595b615c3f457e23c062daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_52aed7bdcca5cea367698edaadbb573a483f7990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_0ed383a7938b2168113abaa91bc418cb65a5cb78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1d87272f4e94f0412be8145ec75aeec12be4c0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6c6b22e7f45f8ac28bd2eb0592eb9c5220015ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_46320aa71d6e7c8761301165668f94a9fcb2f919/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_0e7d3a20c2cb4559e4f4d349ff2956c2d620ee6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b3db57c802e1f101b8c1d164d5ed3ab99777cca3">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e1d7cced04e075da491bfd93157d0c66db7b4b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_800600d4c4799c23c37776d347bffe953b7382ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_731ec7cca16bd7bf8f42ade7889dcd302d8f37f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.zoonref/simple-view-behavior/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zoonref-simple-view-behavior-1.0_2fac8d241843e56bf6ecdb23417c4d41e640ae5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e4643bfea4c37ae78ab55ea3c8e851bb3c69ff52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_a908c52f1e16c9cd4726d04881fffa3184e08f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_9a08a23214652572299722daa53b0aa47577f89c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_ba0aeb7e9f9c454e4ca8dc58c66bc0d45e25455e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ffb24625083bd79e878854aa2427212217063ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_af10e3eaee31c15bbc3169ec158d34bb3e77004d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/anibalmercado/Downloads/Platzigram-1-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_372d297b1e40f92db2a84d730e0d274a40b0bb5d/classes.dex" />
+    </item>
+
+</items>
